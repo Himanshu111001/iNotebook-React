@@ -4,7 +4,7 @@ import { useState } from "react";
 const NoteState = (props) => {
   const notesInitial = [
     {
-      _id: "63d01e24ebb54c24d4f5522f",
+      _id: "63d01u24ebb54c24d4f5522f",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Mera Title",
       description: "eat momos daily else regret",
@@ -13,7 +13,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01f206df360133d73c7df",
+      _id: "63d01f206df360u33d73c7df",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Iphone khareedo",
       description: "2023 m kuch bi krke iphone lena h",
@@ -22,7 +22,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01e24ebb54c24d4f5522f",
+      _id: "63d01e24ebu54c24d4f5522f",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Mera Title",
       description: "eat momos daily else regret",
@@ -31,7 +31,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01f206df360133d73c7df",
+      _id: "63d01fu06df360133d73c7df",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Iphone khareedo",
       description: "2023 m kuch bi krke iphone lena h",
@@ -40,7 +40,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01e24ebb54c24d4f5522f",
+      _id: "63d01e2uebb54c24d4f5522f",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Mera Title",
       description: "eat momos daily else regret",
@@ -49,7 +49,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01f206df360133d73c7df",
+      _id: "63d01f206df360133u73c7df",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Iphone khareedo",
       description: "2023 m kuch bi krke iphone lena h",
@@ -58,7 +58,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01e24ebb54c24d4f5522f",
+      _id: "63du1e24ebb54c24d4f5522f",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Mera Title",
       description: "eat momos daily else regret",
@@ -67,7 +67,7 @@ const NoteState = (props) => {
       __v: 0,
     },
     {
-      _id: "63d01f206df360133d73c7df",
+      _id: "63d01f206df36u133d73c7df",
       user: "63cfecef2df1dba1e3ef7b26",
       title: "Iphone khareedo",
       description: "2023 m kuch bi krke iphone lena h",
